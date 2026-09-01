@@ -17,4 +17,4 @@ link:[ bigquery · looker-studio · analisis-de-datos · business-intelligence �
 3. A partir de la nueva tabla armamos el dashboard de la producción de gas y petróleo entre 2006 hasta Julio de 2026
 
 
-El dashboard fue creado con asistencia de inteligencia artificial Gemini flash 3.7
+El dashboard sigue en desarrollo y fue creado con asistencia de inteligencia artificial Gemini flash 3.7
